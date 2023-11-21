@@ -10,7 +10,7 @@
   
 - :dart: Решаю задачки на Codewars [![codewars](https://www.codewars.com/users/tanny-may/badges/micro)](https://www.codewars.com/users/tanny-may) и на LeetCode <img src="https://img.shields.io/badge/LeetCode-25221B?style=flat-square&logo=leetcode&logoColor=#FFA116" alt="LeetCode Badge"/>
   
-- :page_facing_up: Моё резюме hh.ru
+- :page_facing_up: Моё резюме hh.ru src="[https://img.shields.io/badge/LeetCode-25221B?style=flat-square&logo=leetcode&logoColor=#FFA116](https://hh.ru/resume/f221bcaeff0c8d52df0039ed1f4e6d4c466950)"
   
 ---
 ### :mailbox_with_mail: Мои контакты :
